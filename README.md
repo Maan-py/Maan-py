@@ -2,7 +2,7 @@
 
 <h2> About Me</h2>
 
-- 💻 
+- 💻 Started on 1 Dec 2021 
 
 - 🎒 Currently studying at -
 
@@ -15,7 +15,6 @@
 [![Twitter Follow](https://img.shields.io/badge/-Follow%20%40muhammad.luqmaan__-blue?logo=instagram)](https://www.instagram.com/muhammad.luqmaan_/)
 
 ## I'm a Beginner!!
-Started on 1 Dec 2021 
 
 ### Connect with me:
 
@@ -44,6 +43,8 @@ Started on 1 Dec 2021
 
 
 <br />
+
+## Profile
 
 <details>
   <summary>:zap: GitHub Stats</summary>
