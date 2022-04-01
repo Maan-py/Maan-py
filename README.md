@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Luqmaan 👋 
+## Hi there, I'm Muhammad Luqmaan 👋 
 
 [![Instagram Follow](https://img.shields.io/badge/-Follow%20%40muhammad.luqmaan__-blue?logo=instagram)](https://www.instagram.com/muhammad.luqmaan_/)
 
