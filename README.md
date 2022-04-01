@@ -12,7 +12,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
