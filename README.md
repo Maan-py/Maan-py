@@ -8,11 +8,7 @@
 
 - 🎒 Currently studying at -
 
-- 👯 I'm looking for someone who want to collaborate about making Game Project, WebApp, etc. 
-
-- 💬 Talk to me about Python, JavaScript, Trading Crypo Currency, Open Source, Games, and more (Curhat? sure).
-
-- 🛡️ Administrator at [VALORANT Indonesia Community](https://discord.gg/valorantindonesia).
+- 🥅 Goals: UGM University
 
 
 ## I'm a Beginner!!
