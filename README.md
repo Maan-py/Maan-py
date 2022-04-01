@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Luqmaan 👋 
 
-[![Twitter Follow](https://img.shields.io/badge/-Follow%20%40muhammad__luqmaan.-blue)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/badge/-Follow%20%40muhammad__luqmaan.-blue)](https://www.instagram.com/muhammad.luqmaan_/)
 
 
 ## I'm a Beginner!!
