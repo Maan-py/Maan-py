@@ -20,7 +20,7 @@
 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
-[![website](<img src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"/>)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
+<img src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"/>(https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
 
 ## Languages and Tools:
 
