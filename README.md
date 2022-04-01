@@ -33,8 +33,8 @@
 <code><a href="https://www.w3.org/html/" target="_blank"><span>HTML 5</span><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/447d57790bc691f7d3cfd303ee6826543d14d1e9/HTML5_Logo.svg"></a></code>
   <code><a href="https://www.w3schools.com/css/" target="_blank"><span>CSS</span><img height="20" src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/CSS3_logo_and_wordmark.svg.png"></a></code>
    <code><a href="https://www.python.org" target="_blank"><span>Python</span><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/447d57790bc691f7d3cfd303ee6826543d14d1e9/Python-logo-notext.svg"></a></code>
+   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><span>JavaScript</span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></a></code>
   <code><a href="https://www.php.net/" target="_blank"><span>PHP</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><span>JavaScript</span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></a></code>
   <code><a href="https://www.mysql.com/" target="_blank"><span>MySQL</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
 
 
