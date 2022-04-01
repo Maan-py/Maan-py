@@ -4,7 +4,7 @@
 
 
 ## I'm a Beginner!!
-1 Dec 2021 ⚡
+Started on 1 Dec 2021 
 
 ### Connect with me:
 
