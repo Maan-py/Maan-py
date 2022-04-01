@@ -2,7 +2,7 @@
 
 [![Instagram Follow](https://img.shields.io/badge/-Follow%20%40muhammad.luqmaan__-blue?logo=instagram)](https://www.instagram.com/muhammad.luqmaan_/)
 
-<p>لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا</p>
+<p style="margin-right: 1000px;">لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا</p>
 
 <h2> About Me</h2>
 
