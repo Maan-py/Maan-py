@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Luqmaan 👋 
 
-[![Twitter Follow](https://img.shields.io/badge/-Follow%20%40muhammad__luqmaan.-blue)](https://www.instagram.com/muhammad.luqmaan_/)
+[![Twitter Follow](https://img.shields.io/badge/-Follow%20on%20instagram%20%40muhammad.luqmaan__.-blue)](https://www.instagram.com/muhammad.luqmaan_/)
 
 
 ## I'm a Beginner!!
