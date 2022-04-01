@@ -11,9 +11,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.instagram.com/muhammad.luqmaan_/)
-[![website](./img/globe-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/)
-&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -23,8 +20,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/muhammad.luqmaan_/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/)
 
 ### Languages and Tools:
 
