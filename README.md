@@ -1,4 +1,6 @@
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+# Hi there, I'm Muhammad Luqmaan 👋 
+
+<h2> About Me</h2>
 
 - 💻 
 
@@ -9,8 +11,6 @@
 - 💬 Talk to me about Python, JavaScript, Trading Crypo Currency, Open Source, Games, and more (Curhat? sure).
 
 - 🛡️ Administrator at [VALORANT Indonesia Community](https://discord.gg/valorantindonesia).
-
-# Hi there, I'm Muhammad Luqmaan 👋 
 
 [![Twitter Follow](https://img.shields.io/badge/-Follow%20%40muhammad.luqmaan__-blue?logo=instagram)](https://www.instagram.com/muhammad.luqmaan_/)
 
