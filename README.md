@@ -2,6 +2,15 @@
 
 [![Twitter Follow](https://img.shields.io/badge/-Follow%20%40muhammad.luqmaan__-blue?logo=instagram)](https://www.instagram.com/muhammad.luqmaan_/)
 
+- 💻 I'm an ordinary Full-stack developer.
+
+- 🎒 Alumni SMK Negeri 7 Samarinda.
+
+- 👯 I'm looking for someone who want to collaborate about making Game Project, WebApp, etc. 
+
+- 💬 Talk to me about Python, JavaScript, Trading Crypo Currency, Open Source, Games, and more (Curhat? sure).
+
+- 🛡️ Administrator at [VALORANT Indonesia Community](https://discord.gg/valorantindonesia).
 
 ## I'm a Beginner!!
 Started on 1 Dec 2021 
