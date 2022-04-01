@@ -36,6 +36,8 @@
    <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><span>JavaScript</span><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></a></code>
   <code><a href="https://www.php.net/" target="_blank"><span>PHP</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a></code>
   <code><a href="https://www.mysql.com/" target="_blank"><span>MySQL</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
+  
+---
 
 
 <br />
