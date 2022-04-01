@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Luqmaan 👋 
 
-[![Instagram Follow](https://img.shields.io/instagram/follow/Maan-py?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMaan-py&screen_name=Maan-py)
+[![Instagram Follow](https://img.shields.io/instagram/follow/Maan-py?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/muhammad.luqmaan_/)
 
 
 ## I'm a Beginner!!
