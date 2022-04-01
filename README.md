@@ -20,7 +20,7 @@
 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
-</br>
+&nbsp;&nbsp;
 [![website](./img/discord-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
 [![website](./img/discord-light.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-light-mode-only)
 
