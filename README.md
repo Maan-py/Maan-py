@@ -16,8 +16,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/discord-dark.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
-[![website](./img/discord-light.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](discord.gg/5srndgeNa8#gh-dark-mode-only)
+[![website](./img/discord-light.svg)](discord.gg/5srndgeNa8#gh-light-mode-only)
 
 ## Languages and Tools:
 
