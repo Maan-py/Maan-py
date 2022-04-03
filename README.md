@@ -10,9 +10,6 @@
 
 - 🥅 Goals: UGM University
 
-
-## I'm a Beginner!!
-
 ### Connect with me:
 
 
