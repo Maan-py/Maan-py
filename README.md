@@ -22,8 +22,8 @@
 [![website](./img/discord.svg)](https://discord.gg/5srndgeNa8#gh-dark-mode-only)
 [![website](./img/discord.svg)](https://discord.gg/5srndgeNa8#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/steam.svg)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
-[![website](./img/steam.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
+[![website](./img/steam.png)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
+[![website](./img/steam.png)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
 
 ## Languages and Tools:
 
