@@ -13,6 +13,8 @@
 
 ### Connect with me:
 
+[![website](./img/facebook.svg)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
+[![website](./img/facebook.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
 
 [![website](./img/instagram.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-dark-mode-only)
 [![website](./img/instagram.svg)](https://www.instagram.com/muhammad.luqmaan_/#gh-light-mode-only)
@@ -22,10 +24,6 @@
 &nbsp;&nbsp;
 [![website](./img/steam.svg)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
 [![website](./img/steam.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/facebook.svg)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
-[![website](./img/facebook.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
-
 
 ## Languages and Tools:
 
