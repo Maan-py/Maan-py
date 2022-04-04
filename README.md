@@ -19,6 +19,10 @@
 &nbsp;&nbsp;
 [![website](./img/discord-dark.svg)](https://discord.gg/5srndgeNa8#gh-dark-mode-only)
 [![website](./img/discord-light.svg)](https://discord.gg/5srndgeNa8#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/steam-dark.svg)](https://discord.gg/5srndgeNa8#gh-dark-mode-only)
+[![website](./img/steam-light.svg)](https://discord.gg/5srndgeNa8#gh-light-mode-only)
+
 
 ## Languages and Tools:
 
