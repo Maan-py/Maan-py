@@ -9,7 +9,7 @@
 
 - 🥅 Goals: UGM University
 
-## Connect with me:
+## Connect with me :
 
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/#gh-light-mode-only)
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/#gh-dark-mode-only)
@@ -23,7 +23,7 @@
 [![website](./img/steam.png)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
 [![website](./img/steam.png)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
 
-## Languages and Tools:
+## Languages and Tools :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -39,12 +39,12 @@
    <code><a href="https://www.python.org" target="_blank"><span>Python</span><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/447d57790bc691f7d3cfd303ee6826543d14d1e9/Python-logo-notext.svg"></a></code>
   <code><a href="https://www.php.net/" target="_blank"><span>PHP</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a></code>
   <code><a href="https://www.mysql.com/" target="_blank"><span>MySQL</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
-  
+
+## Games :
+
 ---
 
-## Games:
-
-## Profile
+## Profile :
 
 <details>
   <summary>:zap: GitHub Stats</summary>
