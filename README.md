@@ -42,7 +42,7 @@
 
 ## Games :
 
-[![website](./img/valorant.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
+[![website](./img/valorant1.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
 
 ---
 
