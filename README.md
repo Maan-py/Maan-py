@@ -11,7 +11,7 @@
 
 - 🥅 Goals: UGM University
 
-### Connect with me:
+## Connect with me:
 
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/#gh-light-mode-only)
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/#gh-dark-mode-only)
