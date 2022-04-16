@@ -42,6 +42,8 @@
 
 ## Games :
 
+[![website](./img/valorant.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
+
 ---
 
 ## Profile :
