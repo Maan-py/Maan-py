@@ -9,6 +9,8 @@
 
 - 🥅 Goals: UGM University
 
+- 🖥️  See my first portfolio at [My](http:// https://maan-py.github.io/portfolio/)
+
 ## Connect with me :
 
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/#gh-light-mode-only)
