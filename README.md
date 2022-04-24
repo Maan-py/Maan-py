@@ -9,7 +9,7 @@
 
 - 🥅 Goals: UGM University
 
-- 🖥️  See my first portfolio at [My](http:// https://maan-py.github.io/portfolio/)
+- 🖥️  See my first portfolio at http:// https://maan-py.github.io/portfolio/
 
 ## Connect with me :
 
