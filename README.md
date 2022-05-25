@@ -12,7 +12,7 @@
 
 - 🖥️ Visit my first website at https://maan-py.github.io/portfolio/
 
-## Connect with me :
+## Connect with me 
 
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/#gh-light-mode-only)
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/#gh-dark-mode-only)
@@ -26,7 +26,7 @@
 [![website](./img/steam.png)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
 [![website](./img/steam.png)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
 
-## Languages and Tools :
+## Languages and Tools 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -43,16 +43,14 @@
   <code><a href="https://www.php.net/" target="_blank"><span>PHP</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a></code>
   <code><a href="https://www.mysql.com/" target="_blank"><span>MySQL</span><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
 
-## Games :
+## Games 
 
 [![website](./img/valorant1.svg)](https://steamcommunity.com/id/Maan69/#gh-dark-mode-only)
 [![website](./img/valorant1.svg)](https://steamcommunity.com/id/Maan69/#gh-light-mode-only)
 
 ---
 
-## Profile :
-
-  <summary>:zap: GitHub Stats</summary>
+## <summary>:zap: GitHub Stats</summary>
 
 <a href="https://github.com/Maan-py" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maan-py&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
