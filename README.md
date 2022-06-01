@@ -1,6 +1,6 @@
 
 ## Hi there, I'm Muhammad Luqmaan 👋 
-<img src="https://bkit.co/w_6277190c9be08.gif" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maan-py.Maan-py)
 
 <h2> About Me</h2>
 
