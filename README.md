@@ -1,6 +1,6 @@
 
 ## Hi there, I'm Muhammad Luqmaan 👋 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maan-py.Maan-py)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maan-py.Maa-py)
 
 <h2> About Me</h2>
 
