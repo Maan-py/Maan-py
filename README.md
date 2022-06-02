@@ -1,4 +1,7 @@
-## [![Maan's header](img/bismillah.png)](https://github.com/Maan-py)
+<p align="center" width="100%">
+   <img width="50%" src="img/bismillah.png">
+</p>
+  
 ## Hi there, I'm Muhammad Luqmaan 👋 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maan-py.Maan-py)
 
