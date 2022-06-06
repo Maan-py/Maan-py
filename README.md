@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-   <img width="50%" src="img/bismillah.png">
+   <a href="https://maanportfolio.vercel.app/"><img width="50%" src="img/bismillah.png"></a>
 </p>
   
 ## Hi there, I'm Muhammad Luqmaan 👋 
@@ -13,7 +13,7 @@
 
 - 🥅 Goals: UGM University
 
-- 🖥️ Visit my first website at https://maan-py.github.io/portfolio/
+- 🖥️ Visit my portfolio at https://maanportfolio.vercel.app/
 
 ## Connect with me 
 
