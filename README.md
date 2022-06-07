@@ -4,7 +4,7 @@
   
 ## Hi there, I'm Muhammad Luqmaan 👋 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Maan-py.Maan-py)
-![Click me](https://visitor-badge.laobi.icu/badge?page_id=https://maanportfolio.vercel.app/)
+
 
 <h2> About Me</h2>
 
