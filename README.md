@@ -12,7 +12,7 @@
 
 - 🎒 Currently studying at -
 
-- 🥅 Goals: UGM University
+- 🥅 Goals: Gadjah Mada University
 
 - 🖥️ Visit my portfolio at https://maanportfolio.vercel.app/
 
