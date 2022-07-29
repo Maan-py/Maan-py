@@ -12,8 +12,6 @@
 
 - 🎒 Currently studying at -
 
-- 🥅 Current goals: Gadjah Mada University
-
 - 🖥️ Visit my portfolio at https://maanportfolio.vercel.app/
 
 ## Connect with me 
