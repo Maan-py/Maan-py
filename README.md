@@ -10,7 +10,7 @@
 
 - 💻 Started on 1 Dec 2021 
 
-- 🎒 Currently studying at -
+- 🎒 Currently studying at the middle of nowhere 
 
 - 🖥️ Visit my portfolio at https://maanportfolio.vercel.app/
 
