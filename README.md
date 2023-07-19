@@ -22,7 +22,7 @@
 &nbsp;&nbsp;
 [![website](./img/discord.svg)](https://discord.gg/5srndgeNa8)
 &nbsp;&nbsp;
-[![website](./img/steam.png)](https://steamcommunity.com/id/Maan69/)
+[![website](./img/steam.png)](https://steamcommunity.com/id/MaanPy/)
 
 ## Languages and Tools 
 
