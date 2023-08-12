@@ -13,9 +13,9 @@
 - 🎒 Informatics Engineering student at one of the university in Yogyakarta
 
 - 🖥️ Visit my portfolio at
-https://maanportfolio.vercel.app/
-
 https://maanpy.github.io/portfolio-tailwind/
+
+
 
 ## Connect with me 
 
