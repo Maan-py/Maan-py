@@ -13,7 +13,7 @@
 - 🎒 Informatics Engineering student at one of the university in Yogyakarta
 
 - 🖥️ Visit my portfolio at
-https://maanpy.github.io/portfolio-tailwind/
+https://maan-py.github.io/portfolio-tailwind/
 
 
 
