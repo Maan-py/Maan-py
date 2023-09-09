@@ -21,7 +21,7 @@ https://maan-py.github.io/portfolio-tailwind/
 
 [![website](./img/facebook.png)](https://www.facebook.com/muhammad.luqmaan.75/)
 &nbsp;&nbsp;
-[![website](./img/instagram.svg)]((https://instagram.com/maan.py_?igshid=MzRlODBiNWFlZA==))
+[![website](./img/instagram.svg)](https://instagram.com/maan.py_?igshid=MzRlODBiNWFlZA==)
 &nbsp;&nbsp;
 [![website](./img/discord.svg)](https://discord.gg/5srndgeNa8)
 &nbsp;&nbsp;
