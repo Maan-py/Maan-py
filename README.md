@@ -10,7 +10,7 @@
 
 - 💻 Started on 1 Dec 2021 
 
-- 🎒 Informatics Engineering student at one of the university in Yogyakarta
+- 🎒 Computer science student at one of the university in Yogyakarta
 
 - 🖥️ Visit my portfolio at
 https://maan-py.github.io/portfolio-tailwind/
