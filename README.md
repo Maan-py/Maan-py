@@ -9,7 +9,6 @@
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-luqmaan-58305b245/"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://instagram.com/maan.py_?igshid=MzRlODBiNWFlZA=="><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
-  <!-- <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Maan-py.Maan-py" />
@@ -25,7 +24,7 @@
 
 - 👨🏻‍💼 My name is `Muhammad Luqmaan`
 - 💻 `Computer Science` Student
-- 💻 Visit My Portfolio <a>`https://maanportfolio.my.id`</a>
+- 💻 Visit My Portfolio <a href="https://maanportfolio.my.id">`https://maanportfolio.my.id`</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
