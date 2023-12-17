@@ -24,7 +24,7 @@
 
 - 👨🏻‍💼 My name is `Muhammad Luqmaan`
 - 💻 `Computer Science` Student
-- 💻 Visit My Portfolio <a href="http://maan-py.my.id">`http://maan-py.my.id`</a>
+- 💻 Visit My Portfolio <a href="https://maan-py.my.id">`https://maan-py.my.id`</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
