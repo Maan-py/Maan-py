@@ -1,4 +1,10 @@
-[![Maan-py's header](./img/readmebox.svg)](https://maanportfolio.my.id)
+<p align="center" width="100%">
+   <a href="https://maan-py.my.id"><img width="100%" src="img/bismillah.png"></a>
+</p>
+
+<a href='https://maan-py.my.id'>
+  <img src='./img/readmebox.svg' alt='header' width='100%' />
+</a>
 
 <p align=center>
   <a href="https://www.facebook.com/muhammad.luqmaan.75/">
