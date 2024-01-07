@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-   <a href="https://maan-py.my.id"><img width="100%" src="img/bismillah.png"></a>
+   <a href="https://maan-py.my.id"><img width="50%" src="img/bismillah.png"></a>
 </p>
 
 <a href='https://maan-py.my.id'>
