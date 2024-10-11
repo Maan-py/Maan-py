@@ -51,13 +51,13 @@
 
 ### Stats 📋
 
-| GitHub Stats                                                                                                                                                                    | Contribution Streak                                                                                              |
+<!-- | GitHub Stats                                                                                                                                                                    | Contribution Streak                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maan-py&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maan-py&count_private=true&theme=tokyonight" /> |
 
 | WakaTime Stats                                                                                                                                  | Most Used Languages                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MaanPy&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maan-py&langs_count=10&theme=tokyonight&layout=compact&hide=scss,less,hack" /> |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MaanPy&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maan-py&langs_count=10&theme=tokyonight&layout=compact&hide=scss,less,hack" /> | -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
