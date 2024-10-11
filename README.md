@@ -2,6 +2,10 @@
    <a href="https://maan-py.my.id"><img width="50%" src="img/bismillah.png"></a>
 </p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <a href='https://maan-py.my.id'>
   <img src='./img/readmebox.svg' alt='header' width='100%' />
 </a>
@@ -45,17 +49,16 @@
 
 #### Databases
 
-
 ![MySQL](https://img.shields.io/badge/MySQL-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Stats 📋
 
-| GitHub Stats | Contribution Streak |
+| GitHub Stats                                                                                                                                                                    | Contribution Streak                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Maan-py&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maan-py&count_private=true&theme=tokyonight" /> |
 
-| WakaTime Stats | Most Used Languages |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| WakaTime Stats                                                                                                                                  | Most Used Languages                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MaanPy&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maan-py&langs_count=10&theme=tokyonight&layout=compact&hide=scss,less,hack" /> |
