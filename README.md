@@ -2,10 +2,6 @@
    <a href="https://maan-py.my.id"><img width="50%" src="img/bismillah.png"></a>
 </p>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <a href='https://maan-py.my.id'>
   <img src='./img/readmebox.svg' alt='header' width='100%' />
 </a>
@@ -62,3 +58,6 @@
 | WakaTime Stats                                                                                                                                  | Most Used Languages                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MaanPy&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maan-py&langs_count=10&theme=tokyonight&layout=compact&hide=scss,less,hack" /> |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
