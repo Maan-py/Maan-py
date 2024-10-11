@@ -60,4 +60,13 @@
 | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MaanPy&theme=tokyonight&layout=compact&langs_count=10&range=all_time" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Maan-py&langs_count=10&theme=tokyonight&layout=compact&hide=scss,less,hack" /> | -->
 
 <!--START_SECTION:waka-->
+
+```txt
+C++              131 hrs 32 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.10 %
+JavaScript       69 hrs 53 mins  ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.03 %
+HTML             40 hrs 22 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.46 %
+CSS              13 hrs          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.66 %
+PHP              8 hrs 58 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.22 %
+```
+
 <!--END_SECTION:waka-->
