@@ -46,7 +46,7 @@
 
 #### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![hapi](https://img.shields.io/badge/hapi-5B1FFF?style=for-the-badge&logo=hapi&logoColor=white)
+![hapi.js](https://img.shields.io/badge/hapi.js-783CC4?style=for-the-badge&logo=hapidotjs&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Databases
