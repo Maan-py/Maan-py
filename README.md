@@ -75,8 +75,4 @@ PHP              51 hrs 5 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Python           32 hrs 27 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.71 %
 ```
 
-<figure><embed src="https://wakatime.com/share/@MaanPy/2686c66a-2e20-48f2-a4ce-a5a945f6ec77.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@MaanPy/b25d31b2-20ae-47b5-b668-0e61d079c0fb.svg"></embed></figure>
-
 <!--END_SECTION:waka-->
