@@ -36,7 +36,7 @@
 
 ### Coding Activity 👨🏻‍💻
 
-![Wakatime Stats](https://wakatime.com/share/@MaanPy/a0396c72-32b3-4c5c-9fa6-409870f987d4.svg)
+![Wakatime Stats](https://wakatime.com/share/@MaanPy/cc12eacf-4dea-4a38-b413-3abd52a88537.svg")
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
