@@ -6,7 +6,7 @@
   <img src='./img/readmebox.svg' alt='header' width='100%' />
 </a>
 
-<p align=center>
+<!-- <p align=center>
   <a href="https://www.facebook.com/muhammad.luqmaan.75/">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>
   </a>&nbsp;
@@ -15,7 +15,7 @@
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-luqmaan-58305b245/"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://instagram.com/maan.py_?igshid=MzRlODBiNWFlZA=="><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
-</p>
+</p> -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Maan-py.Maan-py" />
   <a href="https://github.com/Maan-py"><img src="https://img.shields.io/github/followers/Maan-py?label=followers&style=social"/></a>
